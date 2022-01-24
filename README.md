@@ -1,0 +1,1 @@
+These V-Python Simulations are the programming assignments of 2020 National Taiwan University Physics Course opened by Prof. 石明豐, in which we used Python and V-Python to simulate physical phenomenons.
